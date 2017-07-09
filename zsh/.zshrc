@@ -40,5 +40,5 @@ antigen theme subnixr/minimal
 antigen apply
 
 # Aliases
-alias ls='ls --color=auto --block-size=M'
+source .zsh.d/aliases.zsh
 

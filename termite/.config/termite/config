@@ -1,6 +1,7 @@
 [options]
 font = Hack 13px
 icon_name = terminal
+dynamic_title = false
 
 [colors]
 

@@ -29,7 +29,6 @@ source /usr/share/zsh/share/antigen.zsh
 antigen use oh-my-zsh
 
 # Antigen Plugins
-antigen bundle ssh-agent
 antigen bundle git
 antigen bundle zsh-users/zsh-syntax-highlighting
 

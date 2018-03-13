@@ -22,6 +22,11 @@ path=(~/.bin $path[@])
 typeset -U editor
 editor=vim
 
+# Theme settings
+MNML_PROMPT=(mnml_status mnml_keymap)
+MNML_RPROMPT=('mnml_cwd 2 0' mnml_git)
+MNML_INFOLN=(mnml_err mnml_jobs mnml_uhp mnml_files)
+
 # Antigen Init
 source /usr/share/zsh/share/antigen.zsh
 

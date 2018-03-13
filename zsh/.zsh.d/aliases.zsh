@@ -5,3 +5,6 @@ alias ll='ls -al'
 # udiskctl
 alias um='cd && udisksctl unmount -b /dev/sdb1'
 
+# tmux
+alias tmux='tmux -u'
+

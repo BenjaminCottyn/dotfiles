@@ -39,5 +39,5 @@ antigen theme subnixr/minimal
 antigen apply
 
 # Aliases
-source .zsh.d/aliases.zsh
+source "$HOME/.zsh.d/aliases.zsh"
 

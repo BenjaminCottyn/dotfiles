@@ -5,3 +5,6 @@ alias ll='ls -al'
 # udiskctl
 alias um='cd && udisksctl unmount -b /dev/sdb1'
 
+# pretty & readable dmesg
+alias dmesg='dmesg -H'
+
